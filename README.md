@@ -1,8 +1,6 @@
-#Name-Sujeet
-#Iptracer
-#educationalpurposeonly
-
-
+# Name- Sujeet
+# Tool- IP Tracer
+# use education purpose only
 case "$1" in
   -m)
     php modules/.tracem.php
